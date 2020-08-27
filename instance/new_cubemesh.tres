@@ -1,0 +1,8 @@
+[gd_resource type="CubeMesh" load_steps=2 format=2]
+
+[sub_resource type="SpatialMaterial" id=1]
+albedo_color = Color( 1, 0, 0, 1 )
+
+[resource]
+resource_name = "Cube"
+material = SubResource( 1 )
